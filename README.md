@@ -3,12 +3,9 @@
 In the project directory, you can run:
 
 ### `yarn`
-cd client
-
+### `cd client`
 ### `yarn`
-
-cd ..
-
+### `cd..`
 ### `yarn dev`
 
 Enjoy project! :)
